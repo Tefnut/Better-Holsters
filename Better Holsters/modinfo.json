@@ -1,0 +1,12 @@
+[
+  {
+    "type": "MOD_INFO",
+    "ident": "better_holsters",
+    "name": "Better Holsters",
+    "authors": [ "Tefnut" ],
+    "maintainers": [ "Tefnut" ],
+    "description": "Miss when holsters could carry a good variety of guns? Tired of your guns not fitting anywhere? Now, with Better Holsters, you don't have to worry about that anymore.",
+    "category": "rebalance",
+    "dependencies": [ "dda" ]
+  }
+]
